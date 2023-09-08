@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "http://localhost:3500",
+  baseURL: "https://github.com/M-Saad-0/react-blog-post/blob/main/data/db.json",
 });
